@@ -19,8 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact)](https://github.com/brunosmauro/github-readme-stats)
-
 </div>
 
 <div style="display: inline_block" align="center"><br>
