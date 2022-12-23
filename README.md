@@ -17,10 +17,8 @@
 
 </div>
 
-## Tecnologias que eu uso no meu dia
-
 <div style="display: inline_block" align="center"><br>
-<h2 align="center"> Tecnologias </h2>
+<h2 align="center"> ## Tecnologias que eu uso no meu dia </h2>
   <img align="center" alt="Icon-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Icon-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Icon-Javascript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
