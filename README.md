@@ -12,6 +12,12 @@
    <br> 
   😎Sou Bacharel em Sistemas de Informação
   <br><br>
+  
+  <div align="center">
+  <a href="https://github.com/brunosmauro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosmauro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact)](https://github.com/brunosmauro/github-readme-stats)
 
