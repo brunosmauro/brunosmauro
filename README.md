@@ -15,7 +15,7 @@
   
   <div align="left">
   <a href="https://github.com/brunosmauro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosmauro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
